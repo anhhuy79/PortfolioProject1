@@ -135,12 +135,3 @@ select *
 from PercentPopulationVaccinated
 
 
-
-
-
-
-
-
-
-
-
