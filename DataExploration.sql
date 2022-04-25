@@ -1,3 +1,5 @@
+-- DATA EXPLORATION IN SQL SERVER
+
 select * 
 from PortfolioProject#1..CovidDeaths
 order by 3, 4;
